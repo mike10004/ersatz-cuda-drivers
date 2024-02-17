@@ -1,1 +1,1 @@
-dpkg -b ./src fake-ubuntu-advantage-tools.deb
+dpkg -b ./src ersatz-cuda-drivers.deb
